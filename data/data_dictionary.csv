@@ -1,0 +1,8 @@
+field,description,unit,source_or_assumption
+date,Month-end observation date,ISO date,Synthetic reproducible demo
+us_equity,US equity proxy monthly return,decimal,Synthetic reproducible demo
+bonds,US bond proxy monthly return,decimal,Synthetic reproducible demo
+intl_equity,International equity proxy monthly return,decimal,Synthetic reproducible demo
+reit,REIT proxy monthly return,decimal,Synthetic reproducible demo
+source,Data provenance label,text,Synthetic reproducible demo
+
