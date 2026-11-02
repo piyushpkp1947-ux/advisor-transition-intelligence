@@ -1,0 +1,9 @@
+dataset,provider,access_url,used_for,downloaded_on,limitations
+SPY adjusted prices,Yahoo Finance via yfinance,https://finance.yahoo.com/quote/SPY/history,US equity proxy,2026-11-03,Public demo proxy; validate licensing and total-return methodology before client reporting
+AGG adjusted prices,Yahoo Finance via yfinance,https://finance.yahoo.com/quote/AGG/history,US aggregate bond proxy,2026-11-03,Public demo proxy; validate licensing and total-return methodology before client reporting
+VXUS adjusted prices,Yahoo Finance via yfinance,https://finance.yahoo.com/quote/VXUS/history,International equity proxy,2026-11-03,Public demo proxy; validate licensing and total-return methodology before client reporting
+VNQ adjusted prices,Yahoo Finance via yfinance,https://finance.yahoo.com/quote/VNQ/history,REIT proxy,2026-11-03,Public demo proxy; validate licensing and total-return methodology before client reporting
+2026 federal tax tables,IRS,https://www.irs.gov/irb/2025-45_IRB,Ordinary income and long-term capital gains assumptions,2026-11-03,Approximation only; not a tax-return calculation
+Net investment income tax,IRS,https://www.irs.gov/taxtopics/tc559,NIIT threshold and rate,2026-11-03,Client-specific applicability must be verified
+RMD guidance,IRS,https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs,RMD timing guardrail,2026-11-03,Age depends on birth year and plan details
+
