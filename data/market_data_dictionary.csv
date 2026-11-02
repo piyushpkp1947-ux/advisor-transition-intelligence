@@ -1,0 +1,8 @@
+field,description,unit,source_or_assumption
+date,Month-end observation date,ISO date,Yahoo Finance adjusted close via yfinance
+us_equity,SPY monthly return,decimal,Yahoo Finance adjusted close via yfinance
+bonds,AGG monthly return,decimal,Yahoo Finance adjusted close via yfinance
+intl_equity,VXUS monthly return,decimal,Yahoo Finance adjusted close via yfinance
+reit,VNQ monthly return,decimal,Yahoo Finance adjusted close via yfinance
+source,Dataset provenance label,text,Downloaded 2026-11-03 without authentication
+
